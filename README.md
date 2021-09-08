@@ -3,6 +3,13 @@ To Learn Github
 -> How to create a repository
 -> How to create a new branch
 
+To create Repository
+-> open github
+-> your repository
+-> select New Button
+-> Add a repository name
+-> Select submit/save
+
 To Push
 -> git status
 -> git add 
